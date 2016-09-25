@@ -1,4 +1,4 @@
-# AdvancedWidget1 <br>
+# AdvancedWidget1
 ###SCREENSHOT PROJECT
 ![Screenshot 1](http://s14.postimg.org/cykeb5esd/Advanced_Widget01.png)
 ![Screenshot 2](http://s14.postimg.org/qgranfqxp/Advanced_Widget1.png)
